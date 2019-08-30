@@ -11,7 +11,4 @@ matrix:
 script:
   - shellcheck bin/release bin/test
   - bin/test
-
-
-
  

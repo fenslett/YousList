@@ -3,3 +3,4 @@ MAINTAINER sample
 
 RUN yum install python -y
 RUN echo "Hello!"
+
